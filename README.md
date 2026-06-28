@@ -199,8 +199,8 @@ intermittent-demand model (Croston/SBA) for the ramp hours, richer event feature
 
 | Contributor | |
 |---|---|
-| **Elvis Casco** | `ecasco1@gmail.com` |
-| **Erika Blanco** (`YazBlanco` / `eybf`) | `erika.blanco@bse.eu` |
-| **María Victoria Suriel** | `mariavsurieln@gmail.com` |
+| **Elvis Teodoro Casco** | `elvis.casco@bse.eu` |
+| **Erika Yazmin Blanco** | `erika.blanco@bse.eu` |
+| **María Victoria Suriel** | `maria.suriel@bse.eu` |
 
 *Course: 21DM011 Intelligent Data Development — BSE Data Science Methodology.*
