@@ -12,7 +12,7 @@
 ================================================================================
  PART 1 / 3 — Framing · Data quality · Exploratory data analysis
 ================================================================================
- Glovo hourly demand forecasting — 21DM011 Final Project, Elvis Casco.
+ Glovo hourly demand forecasting — 21DM011 Final Project.
 
  SELF-CONTAINED. This file needs nothing but `data/train_data.csv` and the
  scientific-Python stack (numpy, pandas, plotly, statsmodels). It does NOT read
