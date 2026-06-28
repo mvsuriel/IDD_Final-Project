@@ -2,7 +2,7 @@
 ================================================================================
  PART 3 / 3 — Submission · Staffing optimisation · Robustness & wrap-up
 ================================================================================
- Glovo hourly demand forecasting — 21DM011 Final Project, Elvis Casco.
+ Glovo hourly demand forecasting — 21DM011 Final Project.
 
  SELF-CONTAINED. This file needs `data/train_data.csv` + `data/test_data_mock.csv`
  and the scientific-Python stack (numpy, pandas, plotly, ortools). It does NOT
