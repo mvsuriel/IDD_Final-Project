@@ -148,7 +148,6 @@ and drift monitoring on rolling SMAPE/MASE.
 | [`1_3_framing_data_eda.py`](1_3_framing_data_eda.py) | **Part 1** — Business framing · Data quality · EDA (§1–3) |
 | [`4_6_methodology_results_champion.py`](4_6_methodology_results_champion.py) | **Part 2** — Methodology · Results · Champion model (§4–6) |
 | [`7_9_submission_staffing_robustness.py`](7_9_submission_staffing_robustness.py) | **Part 3** — Submission · Staffing MILP · Robustness · Conclusion (§7–11 + Appendix) |
-| [`solution_marimo.py`](solution_marimo.py) / `solution_marimo.html` | Combined marimo notebook (source + rendered HTML) |
 | [`prod_deployment_considerations.pdf`](prod_deployment_considerations.pdf) | Production/deployment write-up |
 | [`data/`](data/) | `train_data.csv`, `test_data_mock.csv` |
 
